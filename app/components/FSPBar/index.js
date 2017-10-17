@@ -123,8 +123,7 @@ class FSPBar extends Component {
         </div>
       </Modal>
       <div style={{color: 'white', fontWeight: 'bold', fontSize: 20, padding: 15, paddingBottom: 0}}>
-        <span>{title}</span>&nbsp;&nbsp;<InfoBtn/>&nbsp;&nbsp;&nbsp;&nbsp;<span
-        style={{fontSize: 14, fontWeight: 'normal'}}>Disclaimer: <i>todo get this from Alyssa</i></span>
+        <span>{title}</span>&nbsp;&nbsp;<InfoBtn/>&nbsp;&nbsp;&nbsp;&nbsp;
       </div>
       <div style={{
         display: 'flex',
